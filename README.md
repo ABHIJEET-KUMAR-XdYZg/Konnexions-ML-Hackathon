@@ -6,7 +6,7 @@ In this project, I use a telecom dataset to predict whether a customer will chur
 
 **Metric to optimize:** Accuracy and F1-score.
 
-**Dataset:** [Link](https://drive.google.com/drive/folders/1TVgow_mdKvINADFW326Anlarvl7XzlVR?usp=drive_link)
+**Dataset:** [Link](https://github.com/ABHIJEET-KUMAR-XdYZg/Konnexions-ML-Hackathon/tree/main/dataset)
 
 The goal is to predict churn in the best possible manner. The column names in the dataset should be self-explanatory.
 
