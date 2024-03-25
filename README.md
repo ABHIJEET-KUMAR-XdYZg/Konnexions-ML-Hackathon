@@ -18,7 +18,7 @@ This project involves using sensor data from machines to predict when maintenanc
 
 **Metric to optimize:** RMSE.
 
-**Dataset:** [Link](https://drive.google.com/drive/folders/1TVgow_mdKvINADFW326Anlarvl7XzlVR?usp=drive_link)
+**Dataset:** [Link](https://github.com/ABHIJEET-KUMAR-XdYZg/Konnexions-ML-Hackathon/tree/main/dataset)
 
 The goal is to predict the remaining useful life (RUL) of each engine in the test dataset based on the entire life cycle data. RUL is equivalent to the number of flights remaining for the engine after the last datapoint in the test dataset.
 
@@ -28,4 +28,4 @@ Twitter has emerged as a vital platform for communication during emergencies. Th
 
 **Metric to optimize:** F1-Score, Accuracy
 
-**Dataset:** [Link](https://drive.google.com/drive/folders/1TVgow_mdKvINADFW326Anlarvl7XzlVR?usp=drive_link)
+**Dataset:** [Link](https://github.com/ABHIJEET-KUMAR-XdYZg/Konnexions-ML-Hackathon/tree/main/dataset)
